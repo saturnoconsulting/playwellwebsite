@@ -37,7 +37,7 @@
              Il nostro obiettivo è costruire fiducia e offrire soluzioni su misura.
            </p>
            <p class="mt-3">
-             Vieni a trovarci in Strada Statale 17, 32 – Scoppito (AQ) oppure chiamaci allo 0862 451619, anche solo per info o curiosità.
+             Vieni a trovarci in Via Verdi 31, 67100 – L'Aquila (AQ) oppure chiamaci allo 0862 294710, anche solo per info o curiosità.
              Segui Play Well anche sui social per novità e aggiornamenti.
            </p>
         </div>
